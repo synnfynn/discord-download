@@ -1,4 +1,4 @@
-# Download Discord Tarball (CLI)
+# Download Discord Tarball
 
 ## Description
 
