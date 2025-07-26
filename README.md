@@ -2,7 +2,7 @@
 
 ## Description
 
-A shell script that downloads the latest version of Discord's compressed tarball for Linux.
+A shell script that downloads the latest version of Discord's compressed tarball.
 
 ## Dependencies
 
